@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+img{
+    width: 246px;
+    height: 222px;
+    align-items: center;
+    position: relative;
+}
+body{
+    background: rgb(100, 2, 2);
+}
+p{
+    color: white;
+}
